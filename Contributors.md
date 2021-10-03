@@ -145,6 +145,7 @@ tayo360
 - [Connor Lawson](https://github.com/lawsoncr/)
 <!-- Muhammad Faizan-->
 - [Shresth](https://github.com/Shresth-Jain/ )
+- [Manav Goel](https://github.com/manavgoel472003)
 - [MilanAgrawal](https://github.com/MilanAgrawal)
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
 - [McKenna McMurray](https://github.com/mckennamcmurray)
